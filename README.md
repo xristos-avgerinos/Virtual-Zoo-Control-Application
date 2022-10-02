@@ -1,2 +1,2 @@
-# Virtual-Zoo-Control-Application
+# First assignment for the lesson "Object Oriented Programming".
 The goal was to make a virtual zoo application, that would support several functions. More specifically, the zoo must be able to Add, Search, Edit or Delete animals. Animals must be implemented using classes.
